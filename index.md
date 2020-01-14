@@ -1,4 +1,4 @@
-# Git Basic Command Description
+# Git Basic Command
 
 # Basic Command
 
