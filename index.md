@@ -1,5 +1,3 @@
-# Basic Command
-
 - git init :- Initialize A Local Git Repository.
 - git clone ssh://git@github.com/[username]/[repository-name].git :- Create A Local Copy Of A Remote Repository.
 - git status :- Check status. 
